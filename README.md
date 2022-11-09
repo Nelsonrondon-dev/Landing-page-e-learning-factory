@@ -75,7 +75,7 @@ Landing Page, responsive developed for the company EADIC, form with API integrat
 
 ## Landing Web
 
-[https://www.eadic.info/becaseadic-ipfe/](https://www.eadic.info/becaseadic-ipfe/)
+[https://www.eadic.info/e-learning-factory/](https://www.eadic.info/e-learning-factory/)
 
 
 ## Tech Used
@@ -85,12 +85,12 @@ Landing Page, responsive developed for the company EADIC, form with API integrat
 
 **API:** [Vtiger CRM](https://help.vtiger.com/article/147111249-Rest-API-Manual), [ActiveCampaign](https://developers.activecampaign.com/reference/overview)
 
-**Server:** PHP, MySQL, WordPress
+**Server:** PHP, MySQL, WordPress. 
 
 
 ## Screenshots Project
 
-![Landing](https://stupefied-kepler.143-198-236-91.plesk.page/img/landing/Landing-page-becas-ipfe.png)
+![Landing](https://stupefied-kepler.143-198-236-91.plesk.page/img/landing/Landing-page-e-learning-factory.png)
 
 
 
